@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>firstTask</title>
+</head>
+<body>
+<h1>网站一级标题</h1>
+<ul>
+    <li> <a href="NL1">导航链接一</a></li>
+    <li> <a href="NL2">导航链接二</a></li>
+    <li> <a href="NL3">导航链接三</a></li>
+    <li> <a href="NL4">导航链接四</a></li>
+</ul>
+<div id="A1">
+    <h2>文章一级标题</h2>
+    <h3>文章二级标题</h3>
+    <p>文章作者 文章发表时间</p>
+    <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，
+        <br />
+        换行了
+        <br/>
+        这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了<br/>
+        这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接到http://ife.baidu.com</a>，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有几个粗体字</b>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，</p>
+    <p>
+        <img src="firstTaskP.png">
+    </p>
+    <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，
+        <br />
+        换行了
+        <br/>
+        这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有几个粗体字</b>这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com" target="_blank">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a> 这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，</p>
+</div>
+
+<div id="A2">
+    <h2>另一篇文章一级标题</h2>
+    <h3>文章二级标题</h3>
+    <p>文章作者 文章发表时间</p>
+    <p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，
+        <br />
+        换行了
+        <br/>
+        这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了<br/>
+        这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接到http://ife.baidu.com</a>，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有几个粗体字</b>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，</p>
+    <p>
+        <img src="firstTaskP.png">
+    </p>
+    <ul>
+        <li>列表项目一</li>
+        <li>列表项目二</li>
+        <li>列表项目三</li>
+    </ul>
+</div>
+
+<div id="A3">
+    <h2>图片</h2>
+    <p>好看的图片</p> <img src="firstTaskP.png">
+    <p>好看的图片</p> <img src="firstTaskP.png">
+    <p>好看的图片</p> <img src="firstTaskP.png">
+    <p>好看的图片</p> <img src="firstTaskP.png">
+    <p>好看的图片</p> <img src="firstTaskP.png">
+    <p>好看的图片</p> <img src="firstTaskP.png">
+    <p>好看的图片</p> <img src="firstTaskP.png">
+    <p>好看的图片</p> <img src="firstTaskP.png">
+    <p>好看的图片</p> <img src="firstTaskP.png">
+    <p>好看的图片</p> <img src="firstTaskP.png">
+</div>
+
+<div id="A4">
+    <h2>最后一篇文章一级标题</h2>
+    <h3>文章二级标题</h3>
+    <p>文章作者 文章发表时间</p>
+    <ol>
+        <li>排名1</li>
+        <li>排名2</li>
+        <li>排名3</li>
+    </ol>
+    <p>下面是个表格，给表格加了一个border="1"好让你看出是一个表格</p>
+    <table border="1">
+        <tr>
+            <th>表头</th>
+            <th>表头</th>
+            <th>表头</th>
+        </tr>
+        <tr>
+            <td>表内单元格</td>
+            <td>表内单元格</td>
+            <td><a href="#">操作</a></td>
+        </tr>
+        <tr>
+            <td>表内单元格</td>
+            <td>表内单元格</td>
+            <td><a href="#">操作</a></td>
+        </tr>
+        <tr>
+            <td>表内单元格</td>
+            <td>表内单元格</td>
+            <td><a href="#">操作</a></td>
+        </tr>
+        <tr>
+            <td>表内单元格</td>
+            <td>表内单元格</td>
+            <td><a href="#">操作</a></td>
+        </tr>
+        <tr>
+            <td>总计</td>
+            <td colspan="2">1000</td>   <!--colspan:列合并；rowspan：行合并-->
+        </tr>
+    </table>
+</div>
+
+<div id="sidebar">
+    <form>
+    <h2>这里以后是一个侧边栏，这是侧边栏的标题</h2>
+    <h3>侧栏注册窗口标题</h3>
+    请输入邮箱地址<input type="text" name="email" value="这是一个邮箱输入框">
+    <p>邮箱地址请按要求格式输入</p>
+    请输入密码<input type="password" name="password1">请重复输入密码<input type="password" name="password2">
+    <p>密码请为6-16位英文或数字</p>
+    性别：<input type="radio" checked="checked" name="gender" value="male" id="male"><label for="male">男</label>
+    <input type="radio" name="gender" value="female" id="female"><label for="female">女</label>
+        城市：
+        <select name="city">
+            <option value="shanghai">上海</option>
+            <option value="beijing" selected>北京</option>
+            <option value="hangzhou">杭州</option>
+        </select>
+    <br/>
+        爱好：
+        <input type="checkbox" value="sport"><label>运动</label>
+        <input type="checkbox" value="art"><label>艺术</label>
+        <input type="checkbox" value="science"><label>科学</label>
+    <br/>
+        个人描述：<textarea>这是一个多行输入框，请输入您的个人描述</textarea>
+    <br/>
+        <input type="submit" value="确认提交">
+        <p>版权所有&copy;</p>
+    </form>
+</div>
+</body>
+</html>
